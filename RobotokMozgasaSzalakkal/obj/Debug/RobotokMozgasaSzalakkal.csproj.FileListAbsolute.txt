@@ -1,0 +1,20 @@
+C:\Users\diak\Documents\JV\Elso asztali alkalmazas\RobotokMozgasaSzalakkal\obj\Debug\RobotokMozgasaSzalakkal.csproj.AssemblyReference.cache
+C:\Users\diak\Documents\JV\Elso asztali alkalmazas\RobotokMozgasaSzalakkal\obj\Debug\RobotokMozgasaSzalakkal.Form1.resources
+C:\Users\diak\Documents\JV\Elso asztali alkalmazas\RobotokMozgasaSzalakkal\obj\Debug\RobotokMozgasaSzalakkal.Properties.Resources.resources
+C:\Users\diak\Documents\JV\Elso asztali alkalmazas\RobotokMozgasaSzalakkal\obj\Debug\RobotokMozgasaSzalakkal.csproj.GenerateResource.cache
+C:\Users\diak\Documents\JV\Elso asztali alkalmazas\RobotokMozgasaSzalakkal\obj\Debug\RobotokMozgasaSzalakkal.csproj.CoreCompileInputs.cache
+C:\Users\diak\Documents\JV\Elso asztali alkalmazas\RobotokMozgasaSzalakkal\bin\Debug\RobotokMozgasaSzalakkal.exe.config
+C:\Users\diak\Documents\JV\Elso asztali alkalmazas\RobotokMozgasaSzalakkal\bin\Debug\RobotokMozgasaSzalakkal.exe
+C:\Users\diak\Documents\JV\Elso asztali alkalmazas\RobotokMozgasaSzalakkal\bin\Debug\RobotokMozgasaSzalakkal.pdb
+C:\Users\diak\Documents\JV\Elso asztali alkalmazas\RobotokMozgasaSzalakkal\obj\Debug\RobotokMozgasaSzalakkal.exe
+C:\Users\diak\Documents\JV\Elso asztali alkalmazas\RobotokMozgasaSzalakkal\obj\Debug\RobotokMozgasaSzalakkal.pdb
+C:\RobotokMozgasaSzalakkal\bin\Debug\RobotokMozgasaSzalakkal.exe.config
+C:\RobotokMozgasaSzalakkal\bin\Debug\RobotokMozgasaSzalakkal.exe
+C:\RobotokMozgasaSzalakkal\bin\Debug\RobotokMozgasaSzalakkal.pdb
+C:\RobotokMozgasaSzalakkal\obj\Debug\RobotokMozgasaSzalakkal.csproj.AssemblyReference.cache
+C:\RobotokMozgasaSzalakkal\obj\Debug\RobotokMozgasaSzalakkal.Form1.resources
+C:\RobotokMozgasaSzalakkal\obj\Debug\RobotokMozgasaSzalakkal.Properties.Resources.resources
+C:\RobotokMozgasaSzalakkal\obj\Debug\RobotokMozgasaSzalakkal.csproj.GenerateResource.cache
+C:\RobotokMozgasaSzalakkal\obj\Debug\RobotokMozgasaSzalakkal.csproj.CoreCompileInputs.cache
+C:\RobotokMozgasaSzalakkal\obj\Debug\RobotokMozgasaSzalakkal.exe
+C:\RobotokMozgasaSzalakkal\obj\Debug\RobotokMozgasaSzalakkal.pdb
